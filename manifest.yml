@@ -3,8 +3,8 @@ declared-services:
     label: docplexcloud
     plan: ODSTRIAL
 applications:
-- name: DOcplexcloud-app
-  host: DOcplexcloud-app
+- name: DOcplexcloud-appCG
+  host: DOcplexcloud-appCG
   memory: 256M
   services:
   - DOcplexcloud-service
