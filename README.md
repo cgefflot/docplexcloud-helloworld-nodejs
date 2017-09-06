@@ -13,7 +13,7 @@ Note that you need to have a Bluemix account.
 
 Click the button below:
 
-[![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/3133b73c73c7d9b58158b28dbfa4975f/button.svg)](https://bluemix.net/deploy?repository=https://github.com/cgefflot/docplexcloud-helloworld-nodejs.git)
+[![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/3133b73c73c7d9b58158b28dbfa4975f/button.svg)](https://bluemix.net/deploy?repository=https://github.com/cgefflot/docplexcloud-helloworld-nodejs/tree/patch-2.git)
 
 Then just follow Bluemix instruction during & after deployment
 
